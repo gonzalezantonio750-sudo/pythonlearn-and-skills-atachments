@@ -1,0 +1,9 @@
+Flask
+FastAPI
+SQLAlchemy
+watchdog
+requests
+pydantic
+uvicorn
+
+# Additional packages can be added as required.
